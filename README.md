@@ -5,6 +5,7 @@ https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj
 
 https://raw.githubusercontent.com/RodrigoMvs123/HTML-CSS-Tutorial-Create-an-Order-Summary-Component/main/README.md
 
+https://github.com/RodrigoMvs123/HTML-CSS-Tutorial-Create-an-Order-Summary-Component/blame/main/README.md
 
 
 index.html 
