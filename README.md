@@ -3,6 +3,10 @@
 https://www.youtube.com/watch?v=SR5GxoFhIAU
 https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj
 
+https://raw.githubusercontent.com/RodrigoMvs123/HTML-CSS-Tutorial-Create-an-Order-Summary-Component/main/README.md
+
+
+
 index.html 
 <!DOCTYPE html>
 <html lang="en">
